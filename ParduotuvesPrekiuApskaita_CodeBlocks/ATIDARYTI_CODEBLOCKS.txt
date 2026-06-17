@@ -1,5 +1,0 @@
-Atidarymas:
-1. Išskleiskite ZIP failą.
-2. Code::Blocks programoje pasirinkite File -> Open.
-3. Atidarykite ParduotuvesPrekiuApskaita.cbp.
-4. Spauskite F9 arba Build and Run.
